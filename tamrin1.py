@@ -1,5 +1,9 @@
 # به نام خدا
 
+'''
+Calculating the sum and multiplication of 2 numbers
+'''
+
 def multiplication_or_sum(num1, num2):
     # calculate product of two number
     product = num1 * num2

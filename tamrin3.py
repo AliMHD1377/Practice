@@ -1,5 +1,9 @@
 # به نام خدا
 
+'''
+Print characters in a string with even index numbers
+'''
+
 s = input("Enter a str:")
 
 print(f'Original String: {s}')

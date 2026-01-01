@@ -1,5 +1,9 @@
 # به نام خدا
 
+'''
+Print the sum of the current number and the previous number.
+'''
+
 print("Printing current and previous number and their sum in a range(10)")
 previous_num = 0
 
